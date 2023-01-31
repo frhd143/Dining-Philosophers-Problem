@@ -1,3 +1,10 @@
+
+/*
+	Written by Farhad Asadi
+	Breaking Hold and Wait condition AND Circular Wait condition.
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
